@@ -1,6 +1,1 @@
-
-import turtle
-
-turtle.bgcolor('red')
-
-turtle.mainloop()
+print('hit')
